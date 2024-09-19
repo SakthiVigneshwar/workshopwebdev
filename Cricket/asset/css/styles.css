@@ -1,0 +1,34 @@
+.o{
+    width: 50px;
+    margin-left: 30px;
+    margin-bottom: 15px;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 40px;
+    list-style: none;
+    background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+    color: white;
+    
+}
+.i{
+    height: 85vh;
+    object-fit: cover;
+    object-position: top;
+}
+.abt_img{
+    width: 100%;
+    text-align: justify;
+}
+
+
+.a{
+    display: flex;
+    column-gap: 40px;
+    justify-content: space-between;
+    list-style: none;
+    
+
+}
